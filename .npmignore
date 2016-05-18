@@ -1,0 +1,12 @@
+test/
+
+.babelrc
+.editorconfig
+.eslintignore
+.eslintrc
+.gitignore
+.npmignore
+.travis.yml
+
+CONTRIBUTING.md
+LICENSE
